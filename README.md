@@ -79,7 +79,7 @@ The full project report includes:
 - Tables summarizing execution time, priorities, and start/end times
 - Visualization of task flow
 
-📁[Download Report (Enhanced_AI_Task_Scheduling_Report.docx)](Report/Enhanced_AI_Task_Scheduling_Report.docx)
+📁[Download Report (AI_Task_Scheduling_Report.docx)](Report/AI_Task_Scheduling_Report.docx)
 
 ---
 
@@ -101,6 +101,8 @@ Developed as part of an academic/research CAPSTONE project.
 
 📧 Email: harshitamahant09@gmail.com
 🔗 GitHub: Harshitamahant(https://github.com/Harshitamahant)
+
+
 🔗 GitHub: https://github.com/vedant-9999
 
 
