@@ -7,7 +7,8 @@
 
 This project implements an **AI-driven real-time task scheduler** designed for **distributed environments**, such as edge-cloud systems. It uses intelligent prioritization and dynamic scheduling techniques to optimize task execution, reduce latency, and improve scalability.
 
-![image](https://github.com/user-attachments/assets/91a45e53-4218-497f-8c1c-73ec9da991de)
+![Data Flow Diagram - visual selection](https://github.com/user-attachments/assets/6b84ee9c-2d2b-491d-a860-71e5bcaf474d)
+
 
 
 ---
