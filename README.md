@@ -97,10 +97,12 @@ The full project report includes:
 
 ## 🤝 Contributions & Contact
 
-Developed as part of an academic/research project.
+Developed as part of an academic/research CAPSTONE project.
 
 📧 Email: harshitamahant09@gmail.com
 🔗 GitHub: Harshitamahant(https://github.com/Harshitamahant)
+🔗 GitHub: https://github.com/vedant-9999
+
 
 ---
 
