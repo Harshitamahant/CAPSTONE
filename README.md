@@ -71,9 +71,29 @@ Tasks are scheduled and executed using simulated time slots:
 
 ![image](https://github.com/user-attachments/assets/3fda5719-bfcf-40a5-ad28-ba035e4445ce)
 
-
-
 ---
+### ✅ Sample Task Execution Summary
+
+The system executed a set of tasks based on their priorities, arrival times, and deadlines. Below is a sample execution summary extracted from the simulation:
+
+| **Task ID** | **Priority** | **Arrival Time** | **Start Time** | **Execution Time (s)** | **End Time** | **Waiting Time** |
+|------------|--------------|------------------|----------------|------------------------|--------------|------------------|
+| Task-1     | High         | 12:00:00         | 12:00:00       | 6                      | 12:00:06     | 0                |
+| Task-2     | Medium       | 12:00:10         | 12:00:10       | 8                      | 12:00:18     | 0                |
+| Task-3     | Low          | 12:00:20         | 12:00:20       | 9                      | 12:00:29     | 0                |
+
+These results demonstrate the system's ability to assign and execute tasks promptly with minimal delay.
+
+🧠 Outcome Summary
+-AI Scheduler consistently reduced average task waiting time and turnaround time across simulations.
+-Adapted dynamically to real-time arrival of tasks based on priority, arrival time, and system state.
+-Minimized context switching, which is crucial for CPU-efficient distributed systems.
+-Demonstrated scalability when tested with increasing task volumes and complexity.
+
+🚀 CONCLUSION FROM RESULTS
+-The AI Scheduler effectively prioritizes critical tasks while maintaining low overhead.
+-Gantt charts and metrics demonstrate strong performance over static methods.
+-Ready for real-world application in edge-cloud or distributed computing environments.
 
 ## 📄 Final Report
 
@@ -89,8 +109,6 @@ The full project report includes:
 📁[Download Report (AI_Task_Scheduling_Report.docx)](Report/AI_Task_Scheduling_Report.docx)
 
 ---
-
-## 📂 File Structure
 
 ## 💻 Tools & Libraries
 
