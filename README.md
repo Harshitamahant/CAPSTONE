@@ -102,7 +102,7 @@ The full project report includes:
   ![Screenshot 2025-04-04 200530](https://github.com/user-attachments/assets/9af547c4-110a-4ced-8001-fda1d9223ee3)
 
 
-📁[Download Report (AI_Task_Scheduling_Report.docx)](Report/AI_Task_Scheduling_Report.docx)
+📁[Download Report (AI_Task_Scheduling_Report.docx)](AI_Task_Scheduling_Report.docx)
 
 ---
 
