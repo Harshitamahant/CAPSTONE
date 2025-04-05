@@ -71,7 +71,7 @@ Tasks are scheduled and executed using simulated time slots:
 
 ![image](https://github.com/user-attachments/assets/3fda5719-bfcf-40a5-ad28-ba035e4445ce)
 
----
+
 ### ✅ Sample Task Execution Summary
 
 The system executed a set of tasks based on their priorities, arrival times, and deadlines. Below is a sample execution summary extracted from the simulation:
@@ -84,16 +84,12 @@ The system executed a set of tasks based on their priorities, arrival times, and
 
 These results demonstrate the system's ability to assign and execute tasks promptly with minimal delay.
 
-🧠 Outcome Summary
--AI Scheduler consistently reduced average task waiting time and turnaround time across simulations.
--Adapted dynamically to real-time arrival of tasks based on priority, arrival time, and system state.
--Minimized context switching, which is crucial for CPU-efficient distributed systems.
--Demonstrated scalability when tested with increasing task volumes and complexity.
+### 🚀 CONCLUSION FROM RESULTS
 
-🚀 CONCLUSION FROM RESULTS
--The AI Scheduler effectively prioritizes critical tasks while maintaining low overhead.
--Gantt charts and metrics demonstrate strong performance over static methods.
--Ready for real-world application in edge-cloud or distributed computing environments.
+- ✅ The AI Scheduler effectively prioritizes critical tasks while maintaining low overhead.
+- 📊 Gantt charts and performance metrics demonstrate strong execution efficiency compared to static scheduling methods.
+- 🌐 The system is ready for real-world deployment in edge-cloud or distributed computing environments where scalability and responsiveness are key.
+--- 
 
 ## 📄 Final Report
 
